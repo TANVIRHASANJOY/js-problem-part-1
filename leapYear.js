@@ -9,4 +9,4 @@ return false;
 }
 let leap=leapYear(2000)
 let leap2=leapYear(2100)
-console.log(leap,leap2)
+console.log(leap,leap2``)
